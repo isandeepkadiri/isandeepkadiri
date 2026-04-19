@@ -1,6 +1,6 @@
-Welcome to sand~rika 👋  
+Welcome to sandrika 👋 .  
 Welcome to our collaborative GitHub space.
-A collaborative space by Sandeep~rika.
+A collaborative space by 🌱🌱 Sandeep~rika 🌱🌱.
 
 ## 💼 About Us
 We build projects, explore new technologies, and turn ideas into reality through code.
